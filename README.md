@@ -101,19 +101,19 @@ Desarrollar una plataforma que permita identificar, analizar y visualizar el rie
 ---
 
 ## 📁 Estructura del Proyecto
-src/main/java/co/edu/uniquindio/sara
-│
-├── config
-├── security
-├── controller
-├── service
-├── repository
-├── model
-├── dto
-├── mapper
-├── exception
-├── util
-└── importation
+            src/main/java/co/edu/uniquindio/sara
+            │
+            ├── config
+            ├── security
+            ├── controller
+            ├── service
+            ├── repository
+            ├── model
+            ├── dto
+            ├── mapper
+            ├── exception
+            ├── util
+            └── importation
 
 ---
 
