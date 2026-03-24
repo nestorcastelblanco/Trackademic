@@ -101,7 +101,7 @@ Desarrollar una plataforma que permita identificar, analizar y visualizar el rie
 ---
 
 ## 📁 Estructura del Proyecto
-            src/main/java/co/edu/uniquindio/sara
+            src/main/java/co/edu/uniquindio/trackademic
             │
             ├── config
             ├── security
