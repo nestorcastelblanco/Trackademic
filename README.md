@@ -37,11 +37,11 @@ Desarrollar una plataforma que permita identificar, analizar y visualizar el rie
 
 ## 🏗️ Arquitectura del Sistema
 
-      Frontend (React)
-              ↓
-Backend (Spring Boot API REST)
-              ↓
-  Base de Datos (PostgreSQL)
+            Frontend (React)
+                    ↓
+      Backend (Spring Boot API REST)
+                    ↓
+        Base de Datos (PostgreSQL)
 
 
 ---
